@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building a comprehensive Docker repository featuring various technologies, frameworks, and languages.**
 
-- 🌱 I’m currently learning **Cloud Computing (AWS) and Springboot**
+- 🌱 I’m currently learning **Cloud Computing (AWS)**
 
 - 👨‍💻 All of my projects are available at [https://main.d3mwz86ap8iq03.amplifyapp.com/](https://main.d3mwz86ap8iq03.amplifyapp.com/)
 
